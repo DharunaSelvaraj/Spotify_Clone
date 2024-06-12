@@ -53,8 +53,7 @@ Welcome to the Spotify Clone App! This application mimics the basic functionalit
 
 ## Technologies Used
 - **Frontend**:
-  - HTML, CSS, JavaScript
-  - 
+  - HTML, CSS, JavaScript 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
