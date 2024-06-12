@@ -8,7 +8,6 @@ Welcome to the Spotify Clone App! This application mimics the basic functionalit
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
