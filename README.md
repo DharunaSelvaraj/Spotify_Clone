@@ -16,8 +16,8 @@ Welcome to the Spotify Clone App! This application mimics the basic functionalit
 - **Pop Quiz**: Test your music knowledge with fun, interactive quizzes.
 
 ## Screenshots
-![Home Page](screenshots/homepage.jpg)
-![Quiz Feature](screenshots/quiz.jpg)
+![Home Page](homepage.jpg)
+![Quiz Feature](quiz.jpg)
 
 ## Installation
 
